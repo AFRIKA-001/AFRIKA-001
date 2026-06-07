@@ -1,4 +1,5 @@
 # Hi there, I'm Gabriel Wafula 👋 
+---
 
 ### 💻 Full-Stack Developer | React Enthusiast | Agentic AI Explorer
 
