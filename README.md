@@ -25,6 +25,6 @@
 
 
 📫 Reach me:
-- LinkedIn: n/gabriel-wafula
+- LinkedIn: in/gabriel-wafula
 - Email: shikukugabriel06@gmail.com
   
