@@ -1,9 +1,5 @@
 # Hi there, I'm Gabriel Wafula 👋 
 
-<p align="left">
-  <img src="https://komarev.com/normal-counter/?id=AFRIKA-001&style=flat-square&color=319795" alt="Profile Views" />
-</p>
-
 ### 💻 Full-Stack Developer | React Enthusiast | Agentic AI Explorer
 
 I build modern, scalable, and user-focused web applications with a strong emphasis on clean architecture, high performance, and exceptional user experiences. 
