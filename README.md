@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Gabriel Wafula 👋
 
-<!--
-**AFRIKA-001/AFRIKA-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer
 
-Here are some ideas to get you started:
+🚀 Building modern web applications with React, JavaScript, Tailwind CSS, and Supabase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Agentic Ai using python language and backend engineering
+
+📚 Passionate about clean code, performance, and user-centered design
+
+## 🛠 Tech Stack
+
+- React
+- JavaScript
+- Tailwind CSS
+- Supabase
+- Python
+- Git & GitHub
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFRIKA-001&show_icons=true)
+
+![React](https://img.shields.io/badge/React-19-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2025-yellow)
+![Python](https://img.shields.io/badge/Python-Developer-green)
+![Supabase](https://img.shields.io/badge/Supabase-Backend-success)
+
+
+📫 Reach me:
+- LinkedIn: in/gabriel/wafula
+- Email: your-email@example.com
+  
