@@ -43,10 +43,6 @@ I build modern, scalable, and user-focused web applications with a strong emphas
 
 ### 📊 GitHub Activity Matrix
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AFRIKA-001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gabriel's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFRIKA-001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AFRIKA-001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
