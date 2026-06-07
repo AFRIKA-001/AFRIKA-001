@@ -16,7 +16,7 @@
 - Supabase
 - Python
 - Git & GitHub
-
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFRIKA-001)](https://github.com/AFRIKA-001/github-readme-stats)
 
 ![React](https://img.shields.io/badge/React-19-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2025-yellow)
@@ -25,6 +25,6 @@
 
 
 📫 Reach me:
-- LinkedIn: in/gabriel-wafula
+- LinkedIn: <in/gabriel-wafula>
 - Email: shikukugabriel06@gmail.com
   
