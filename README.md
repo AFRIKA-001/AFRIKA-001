@@ -17,7 +17,7 @@
 - Python
 - Git & GitHub
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFRIKA-001&show_icons=true)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabe-dev&show_icons=true)
 
 ![React](https://img.shields.io/badge/React-19-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2025-yellow)
@@ -26,6 +26,6 @@
 
 
 📫 Reach me:
-- LinkedIn: in/gabriel/wafula
-- Email: your-email@example.com
+- LinkedIn: <in/gabriel/wafula>
+- Email: shikukugabriel06@gmail.com
   
