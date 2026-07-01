@@ -1,9 +1,9 @@
-# Hi there, I'm Gabriel Wafula 👋 
+# Hi there, I'm Shikuku Gabriel Wafula 👋 
 
 
-### 💻 Full-Stack Developer | React Enthusiast | Agentic AI Explorer
+### 💻 Full-Stack Developer | React Enthusiast | Agentic AI Explorer |Backend engineer
 
-I build modern, scalable, and user-focused web applications with a strong emphasis on clean architecture, high performance, and exceptional user experiences. 
+I build modern, scalable, and user-focused web applications with a strong emphasis on clean architecture, high performance, and exceptional user experiences with strong database schemas and authetication. 
 
 ---
 
@@ -20,6 +20,9 @@ I build modern, scalable, and user-focused web applications with a strong emphas
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)](https://ejs.co/)
 
 #### 🤖 AI Engineering & Systems
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
